@@ -63,3 +63,4 @@ for columns in range(3):
     print("Eigenvector for %d:" % (matrix[columns][columns]))
     print("s*(%.3f, %.3f, %.3f)^T\n" % (eigenVectors[0][columns],
             eigenVectors[1][columns], eigenVectors[2][columns]))
+    
